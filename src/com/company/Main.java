@@ -24,7 +24,7 @@ public class Main
 
     public static void main(String[] args)
     {
-        //Create a variable to store ther player name.  It will be empty at this point.
+        //Create a variable to store the player name.  It will be empty at this point.
         String name;
 
         //Get a String from the keyboard input and assign it to the variable name
